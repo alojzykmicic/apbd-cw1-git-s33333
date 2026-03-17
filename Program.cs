@@ -9,3 +9,4 @@ if (string.IsNullOrWhiteSpace(input))
     return;
 }
 Console.WriteLine("Wprowadzono dane poprawnie");
+//jakis komentarz
