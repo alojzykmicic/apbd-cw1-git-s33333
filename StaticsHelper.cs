@@ -4,6 +4,7 @@ public class StaticsHelper
 { 
     public static double CalculateAverage(int[] vals)
     {
-        return 0;
+        if (vals == null || vals.Length == 0) return 0;
+        return vals.Average();
     }
 }
