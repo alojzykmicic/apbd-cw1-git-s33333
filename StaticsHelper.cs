@@ -4,6 +4,6 @@ public class StaticsHelper
 { 
     public static double CalculateAverage(int[] vals)
     {
-        
+        return 0;
     }
 }
