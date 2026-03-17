@@ -17,7 +17,7 @@ public class StaticsHelper
 
     public static int CalculateMin(int[] vals)
     {
-        return 0;
-        // to do:
+        if (vals == null || vals.Length == 0) return 0;
+        return vals.Min();
     }
 }
