@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Greetings from main branch!");
 Console.WriteLine("Napisz cos: ");
 
 string input  = Console.ReadLine();
