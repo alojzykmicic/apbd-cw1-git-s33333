@@ -12,5 +12,6 @@ public class StaticsHelper
     {
         if (vals == null || vals.Length == 0) return 0;
         return vals.Max();
+        
     }
 }
