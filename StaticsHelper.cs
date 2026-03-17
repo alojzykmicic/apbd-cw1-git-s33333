@@ -14,4 +14,10 @@ public class StaticsHelper
         return vals.Max();
         
     }
+
+    public static int CalculateMin(int[] vals)
+    {
+        return 0;
+        // to do:
+    }
 }
