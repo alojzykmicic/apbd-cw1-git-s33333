@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Hello, World (with feature-conflict)!");
 Console.WriteLine("Napisz cos: ");
 
 string input  = Console.ReadLine();
